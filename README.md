@@ -1,10 +1,7 @@
 # VenomAttack-demo
 
-## Information of experimental device:
-Device Name: Xiaomi Redmi 10X Pro
-System Info: MIUI 11.0.5
-Android Version: Android 10
-API Level: 29
+## Information of experimental device:  
+Device Name: Xiaomi Redmi 10X Pro  System Info: MIUI 11.0.5  Android Version: Android 10  API Level: 29
 
 ## VenomAttackScreenrecorder folder
 The *VenomAttackScreenrecorder* folder is the device screen record of *Phishing attack* demo, *Spoofing attack* demo and *Denial of service attack* demo.
