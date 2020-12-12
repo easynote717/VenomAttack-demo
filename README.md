@@ -15,5 +15,8 @@ Because of the testing of the app, we had to perform Gaussian blurring on some i
 These processing will not affect the video playback effect.  
 Except for these processes, the contents of *VideoDemoGaussianBlur* folder are exactly the same as those of *VenomAttackVideoDemo*.  
 So in the blind review stage, please download the video in the *VideoDemoGaussianBlur* folder to watch.  
-Or, we published a web page for online viewing, which is more convenient for you.  
+
+
+Or, we publish a webpage for you to browse online, which contains detailed operation information and introduction of each video.  
+This is more convenient for you.  
 [Online Watching](https://sites.google.com/view/venomattack-demo/) https://sites.google.com/view/venomattack-demo/
