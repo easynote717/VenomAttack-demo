@@ -12,8 +12,8 @@ Due to the size limitation of the uploaded file, we divided the video file into 
 
 ## VideoDemoGaussianBlur folder
 Because of the testing of the app, we had to perform Gaussian blurring on some images that would reveal our personal information.  
-Except for these processes, the contents of *VideoDemoGaussianBlur* folder are exactly the same as those of *VenomAttackVideoDemo*.
 These processing will not affect the video playback effect.  
-So in the blind review stage, please download the video in this folder to watch.  
+Except for these processes, the contents of *VideoDemoGaussianBlur* folder are exactly the same as those of *VenomAttackVideoDemo*.  
+So in the blind review stage, please download the video in the *VideoDemoGaussianBlur* folder to watch.  
 Or, we published a web page for online viewing, which is more convenient for you.  
 [Online Watching](https://sites.google.com/view/venomattack-demo/) https://sites.google.com/view/venomattack-demo/
